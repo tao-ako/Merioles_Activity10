@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "640608046505",
+    "project_id": "notes-7152b",
+    "storage_bucket": "notes-7152b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640608046505:android:e39224305ec821cd1708b8",
+        "android_client_info": {
+          "package_name": "com.example.crud_firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640608046505-tggh5cliado3uim938edpcqmrcaij325.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZi7Psn4hGC3j4kRqgg13WfX0rlOfxhnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640608046505-tggh5cliado3uim938edpcqmrcaij325.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640608046505:android:ff53e2a64e90d8fa1708b8",
+        "android_client_info": {
+          "package_name": "com.merioles.firebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640608046505-99a27ese8jf1d9l0hm8t42i1h3r4o5qr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.merioles.firebasecrud",
+            "certificate_hash": "9fe9f05c138723c51c3d296bf11b7c7cde90e5e2"
+          }
+        },
+        {
+          "client_id": "640608046505-tggh5cliado3uim938edpcqmrcaij325.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZi7Psn4hGC3j4kRqgg13WfX0rlOfxhnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640608046505-tggh5cliado3uim938edpcqmrcaij325.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
